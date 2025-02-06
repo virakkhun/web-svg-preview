@@ -5,6 +5,7 @@ view svg in the browser.
 ## Usage
 
 - use `<leader>g` to view the svg in the browser
+- use `:WebSvgPreview` to view svg in the browser
 
 ## Installation
 
